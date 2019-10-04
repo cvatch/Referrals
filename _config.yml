@@ -1,24 +1,22 @@
 # Site settings
-title: Infinite Activities
-email: colin@infiniteactivities.com
+title: GrowTye
+email: GrowTye@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Your go-to place to grow with GrowTye. Visit for; tutorials,Infinite Activities, website recommendations and more! 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "infiniteactivities.com" # the base hostname & protocol for your site
+url: "growtye.info" # the base hostname & protocol for your site
 
 # User setting
-owner: Colin Vatcher
-email: colin@infiniteactivities.com
+owner: GrowTye
+email: GrowTye@gmail.com
 facebook_username: infiniteactivities
 github_username: cvatch
 address:
-  - line: Innovation Works 
-  - line: 201 King Street
-  - line: "London, ON N6A 1C9"
+  - line: 
+  - line: 
+  - line: London, ON"
   # Feel free to add more lines here 
-telephone: 519-520-6658
+telephone: 
 copyright: Infinite Activities
 
 # API settings
