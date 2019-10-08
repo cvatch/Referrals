@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cvatch.github.io
+Token: ff364663a270546bde7a790d6e6b04886592146577a459a8da7d96b460d6e3da
