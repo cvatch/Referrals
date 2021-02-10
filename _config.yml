@@ -13,10 +13,7 @@ owner: Colin Vatcher
 email: colin@infiniteactivities.com
 facebook_username: infiniteactivities
 github_username: cvatch
-address:
-  - line: Innovation Works 
-  - line: 201 King Street
-  - line: "London, ON N6A 1C9"
+
   # Feel free to add more lines here 
 telephone: 519-520-6658
 copyright: Infinite Activities
@@ -26,3 +23,4 @@ google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-hacker
